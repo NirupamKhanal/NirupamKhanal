@@ -3,7 +3,7 @@
 ### I am a mathematics and physics undergraduate international student at the _University of Southern Mississippi_. 
 > _Exploring the intersection of **technology**, **mathematics**, and **innovation**._
 
-Currently, I am engaged in research simulating fluid dynamics using a collocation schema known as Local Method for Approximate Particular Solutions (LMAPS), under the supervision of Dr. Huiquing Zhu.
+Currently, I am engaged in research simulating fluid dynamics using a collocation schema known as Local Method for Approximate Particular Solutions (LMAPS), under the supervision of Dr. Huiquing Zhu. I am also involved in a number of open-source initiatives you can find below that were launched as of Febuary 2025 and have rapidly developing ecosystems. 
 
 Previously, I worked on investigating brachistochrone curve solutions in hyperbolic space using the Poincaré and flat-chart metrics, a set of differential equations describing the geodesics in these respective metric spaces, under the supervision of Dr. Sungwook Lee.
 
