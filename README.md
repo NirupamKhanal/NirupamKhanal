@@ -30,9 +30,9 @@ In my leisure, I enjoy exploring concepts beyond mathematics, with interests in 
 
 | 🔗 Repository Name               | ✨ Description                                                                                     | 🔧 Technology      | 📅 Last Updated |
 |---------------------------------|----------------------------------------------------------------------------------------------------|--------------------|-----------------|
-| [QuaternionRotations](#)        | Visual simulation distinguishing quaternion and 3D systems of rotation.                            | TypeScript         | _Feb 04, 2025_  |
-| [VR-Dyslexia-with-Llama](#)     | AI-powered app helping individuals with dyslexia.                                                  | Python, Llama      | _Nov 12, 2024_  |
-| [OpenAI-API-wrapper-ChatBot](#) | A very simple ChatBot created using OpenAI's ChatGPT API.                                          | CSS, JavaScript    | _Sep 14, 2024_  |
+| [NumericalAnalysis-Quaternions](https://github.com/NirupamKhanal/NumericalAnalysis-Quaternions)        | Visual simulation distinguishing quaternion and 3D systems of rotation.                            | TypeScript         | _Feb 04, 2025_  |
+| [VR-Dyslexia-with-Llama](https://github.com/NirupamKhanal/VR-Dyslexia-with-Llama)     | AI-powered app helping individuals with dyslexia.                                                  | Python, Llama      | _Nov 12, 2024_  |
+| [OpenAI-API-wrapper-ChatBot](https://github.com/NirupamKhanal/Project-Chat-Completion---ChatGPT-application) | A very simple ChatBot created using OpenAI's ChatGPT API.                                          | CSS, JavaScript    | _Sep 14, 2024_  |
 
 ---
 
