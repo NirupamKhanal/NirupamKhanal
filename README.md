@@ -1,6 +1,6 @@
 # 🌟 **Cheers!** 👋 **I'm Nirupam / Niv** 🚀  
 
-### I am a mathematics and physics undergraduate international student at the _University of Southern Mississippi_. 
+### I am a mathematics and physics undergraduate international student, currently in my junior year, and looking to transfer out of the _University of Southern Mississippi_. 
 > _Exploring the intersection of **technology**, **mathematics**, and **innovation**._
 
 Currently, I am engaged in research simulating fluid dynamics using a collocation schema known as Local Method for Approximate Particular Solutions (LMAPS), under the supervision of Dr. Huiquing Zhu. I am also involved in a number of open-source initiatives you can find below that were launched as of Febuary 2025 and have rapidly developing ecosystems. 
